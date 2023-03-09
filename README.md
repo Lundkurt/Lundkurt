@@ -1,5 +1,5 @@
 
-## Hey, I'm Kurt André Lund!
+### Hey, I'm Kurt André Lund!
 
 I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway.
 
