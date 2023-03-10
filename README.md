@@ -1,4 +1,9 @@
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
+</div>
+
 ### Hey, I'm Kurt André Lund!
 
 I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway.
@@ -21,10 +26,6 @@ I love learning new stuff, thats what i do, suck up knowledge and then use creat
 - Bootstrap
 - Adobe XD
 
-
-### Reach out to me:
-
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kurt-lund/)]
 
 
 
