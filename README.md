@@ -13,7 +13,7 @@
 
 # Hey, I'm Kurt André Lund! :wave:
 
-I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway. 🇳🇴
+I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway. 
 
 After being a electrician for years i finally decided to develop myself in a field i love, developing. I started at Noroff with their Front-end studies which have been alot of fun and learning!
 Late 2022 i met Mike Glabay from Glabay Studios, and have been working with him with various projects to learn Java and spring boot, and Python is on the to do list. 
@@ -43,7 +43,7 @@ I love learning new stuff, thats what i do, suck up knowledge and then use creat
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Xd" alt="xd" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="nextjs" width="40" height="40"/>&nbsp;
 
 </div>
 
