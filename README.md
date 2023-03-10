@@ -11,7 +11,7 @@
   </div>
 </div>
 
-### Hey, I'm Kurt André Lund! :wave:
+# Hey, I'm Kurt André Lund! :wave:
 
 I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway. 🇳🇴
 
