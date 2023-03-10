@@ -8,14 +8,14 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=Lundkurt&style=flat-square&color=blue" alt=""/>
 
-### Hey, I'm Kurt André Lund!
+### Hey, I'm Kurt André Lund! :wave:
 
-I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway.
+I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway. 🇳🇴
 
 After being a electrician for years i finally decided to develop myself in a field i love, developing. I started at Noroff with their Front-end studies which have been alot of fun and learning!
 Late 2022 i met Mike Glabay from Glabay Studios, and have been working with him with various projects to learn Java and spring boot, and Python is on the to do list. 
 
-I love learning new stuff, thats what i do, suck up knowledge and then use creatively. 
+I love learning new stuff, thats what i do, suck up knowledge and then use creatively. 💡
 
 ### What i'm currently learning
 
