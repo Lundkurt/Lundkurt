@@ -47,6 +47,9 @@ I love learning new stuff, thats what i do, suck up knowledge and then use creat
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lundkurt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+Have a look at my portfolio:
+<a href="https://portfolio-kurt.netlify.app/">Portfolio</a>
+
 
 <!--
 **Lundkurt/Lundkurt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
