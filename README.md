@@ -38,7 +38,6 @@ I love learning new stuff, thats what i do, suck up knowledge and then use creat
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="Xd" alt="xd" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="nextjs" width="40" height="40"/>&nbsp;
-
 </div>
 
 
