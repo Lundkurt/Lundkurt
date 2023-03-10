@@ -24,7 +24,7 @@ I love learning new stuff, thats what i do, suck up knowledge and then use creat
 
 ### Reach out to me:
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kurt-lund-1a204420a/)]
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kurt-lund/)]
 
 
 
