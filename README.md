@@ -1,12 +1,11 @@
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="100"/>
-</div>
-<a href="https://www.linkedin.com/in/kurt-lund/">
+  <a href="https://www.linkedin.com/in/kurt-lund/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=Lundkurt&style=flat-square&color=blue" alt=""/>
+</div>
 
 ### Hey, I'm Kurt André Lund! :wave:
 
