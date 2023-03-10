@@ -20,19 +20,13 @@ Late 2022 i met Mike Glabay from Glabay Studios, and have been working with him 
 
 I love learning new stuff, thats what i do, suck up knowledge and then use creatively. 💡
 
-### What i'm currently learning
+### What i'm currently learning :brain:
 
 - Learning Java and spring boot, still pretty basic.
 - Improving my react skills.
 
 
-### What can i?
-
-- Html, css and javscript ofcourse.
-- React and Next.js with room for improvements.
-- Bootstrap
-- Adobe XD
-
+### What can i? 🛠️
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
