@@ -17,19 +17,19 @@
 
 I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway. 
 
-After being a electrician for years i finally decided to develop myself in a field i love, developing. I started at Noroff with their Front-end studies which have been alot of fun and learning!
-Late 2022 i met Mike Glabay from Glabay Studios, and have been working with him with various projects to learn Java and spring boot, and Python is on the to do list. 
+After being a electrician for years I finally decided to develop myself in a field i love, developing. I started at Noroff with their Front-end studies which have been alot of fun and learning!
+Late 2022 I met Mike Glabay from Glabay Studios, and have been working with him with various projects to learn Java and spring boot, and Python is on the to do list. 
 
 I love learning new stuff, thats what i do, suck up knowledge and then use creatively. 💡
 
 
-### What i'm currently learning :brain:
+### What I'm currently learning :brain:
 
 - Learning Java and spring boot, still pretty basic.
 - Improving my react skills.
 
 
-### What can i? 🛠️
+### What can I? 🛠️
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
