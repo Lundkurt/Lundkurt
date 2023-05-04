@@ -48,7 +48,7 @@ I love learning new stuff, thats what i do, suck up knowledge and then use creat
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lundkurt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Have a look at my portfolio:
-<a href="https://lundkurt.netlify.app/">Portfolio</a>
+<a href="https://lundkurt.netlify.app/" target="_blank">Portfolio</a>
 
 
 <!--
