@@ -15,18 +15,18 @@
 
 ### About me 👨‍💻
 
-I'm currently a student who's about to graduate from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway. 
+I'm graduated from Noroff's Front-end Developer studies, I'm based in Sandnes, Norway, today i'm working with MS PowerApps, and i develop some fun tools and games on the side.
 
 After being a electrician for years I finally decided to develop myself in a field i love, developing. I started at Noroff with their Front-end studies which have been alot of fun and learning!
-Late 2022 I met Mike Glabay from Glabay Studios, and have been working with him with various projects to learn Java and spring boot, and Python is on the to do list. 
 
 I love learning new stuff, thats what i do, suck up knowledge and then use creatively. 💡
 
 
 ### What I'm currently learning :brain:
 
-- Learning Java and spring boot, still pretty basic.
+- HTML5, JS, Python and more
 - Improving my react skills.
+- Abusing AI
 
 
 ### What can I? 🛠️
